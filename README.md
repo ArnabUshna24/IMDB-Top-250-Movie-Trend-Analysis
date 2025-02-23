@@ -27,4 +27,18 @@ After generating .csv files from VS Code, I manually adjusted the column entries
 * The Shawshank Redemption, Star Wars: Episode V - The Empire Strikes Back, and The Dark Knight are the topmost movies in R, PG and PG-13 category, respectively.
 
 ## [Dashboard Preview](https://public.tableau.com/app/profile/arnab.naha.ushna/viz/Top250IMDBMovies_17382266796240/Top250IMDBMovies)
+![Tableau Visualization](https://github.com/ArnabUshna24/IMDB-Top-250-Movies-of-All-Time/blob/main/Dashboard.jpg)
 
+## Build from Source
+1. Clone repository
+   ```python
+   git clone https://github.com/ArnabUshna24/IMDB-Top-250-Movies-of-All-Time.git
+2. Initialize virtual environment
+   ```python
+   virtualenv venv
+3. Activate virtual environment
+   ```python
+   source ./venv/bin/activate
+4. Install dependencies
+   ```python
+   pip install -r requirements.txt
