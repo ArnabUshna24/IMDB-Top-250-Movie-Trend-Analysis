@@ -24,7 +24,7 @@ After generating .csv files from VS Code, I manually adjusted the column entries
 * Among the 250 movies, the most number of movies (8) were released in 1995.
 * The highest average rating for the released movie(s) in a calendar year (9.2) was in 1972.
 * Most of the movies (101) are R-rated, having an average rating of approximately 8.33.
-* The Shawshank Redemption, Star Wars: Episode V - The Empire Strikes Back, and The Dark Knight are the topmost movies in R, PG and PG-13 category, respectively.
+* The Shawshank Redemption, Star Wars: Episode V - The Empire Strikes Back, and The Dark Knight are the highest ranked movies in R, PG and PG-13 categories, respectively.
 
 ## [Dashboard Preview](https://public.tableau.com/app/profile/arnab.naha.ushna/viz/Top250IMDBMovies_17382266796240/Top250IMDBMovies)
 ![Tableau Visualization](https://github.com/ArnabUshna24/IMDB-Top-250-Movies-of-All-Time/blob/main/Dashboard.jpg)
