@@ -1,7 +1,7 @@
 # IMDB - Top 250 Movies of All Time
 
 ## About
-This is a Capstone Project under the flagship cohort of MasterCourse - Dokkho Data Science Cohort 6. In this project, IMDB website was scraped to retrieve data on top 250 movies of all time and interesting findings were presented on Tableau.
+This is a Capstone Project under the flagship cohort of MasterCourse, called MasterCourse - Dokkho Data Science Cohort 6. In this project, IMDB website was scraped to retrieve data on top 250 movies of all time and interesting findings were presented on Tableau.
 
 ## Goal
 This project will build a web scraper for a dynamic website and create meaningful and interesting visualizations in Tableau dashboard.
