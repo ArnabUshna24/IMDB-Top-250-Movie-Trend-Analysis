@@ -42,3 +42,7 @@ After generating .csv files from VS Code, I manually adjusted the column entries
 4. Install dependencies
    ```python
    pip install -r requirements.txt
+5. Run scraper.py, scraper_2.py, and scraper_3.py files to scrape the data and generate the .csv files.
+
+
+For any queries, contact me: arnabnushna24@gmail.com
