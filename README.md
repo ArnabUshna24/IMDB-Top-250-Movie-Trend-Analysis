@@ -4,13 +4,13 @@
 This is a Capstone Project under the flagship cohort of MasterCourse, called MasterCourse - Dokkho Data Science Cohort 6. In this project, IMDB website was scraped to retrieve data on top 250 movies of all time and interesting findings were presented on Tableau.
 
 ## Overview
-This project worked on IMDB's [Top 250 Movies](https://www.imdb.com/chart/top/?ref_=nv_mv_250) and built a web scraper to create meaningful and interesting visualizations in Tableau dashboard. It serves the following concerns:
+This project was focused on IMDB's [Top 250 Movies](https://www.imdb.com/chart/top/?ref_=nv_mv_250) of all time and web scrapers were built to create meaningful and interesting visualizations in Tableau. It serves the following concerns:
 * Scraping a dynamic website and retrieving data.
 * Finding and handling missing data properly.
-* Building interesting trends or patterns from the data by creating visualization in Tableau.
+* Investigating interesting trends or patterns from the data by creating visualizations in Tableau.
 
 ## Dynamic Web Scraping
-Selenium was used to build a web scraper to retrieve data on top 250 movies of all time from IMDB website. Six (6) columns were considered for the dataset, i.e., `Rank`, `Title`, `Release`, `Runtime`, `Rated`, and `Ratings`. Since the columns do not have same number of entries, data were scraped separately (by making 3 separate scrapers) considering the uneven number of column entries.
+Selenium was used to build web scrapers to retrieve data on top 250 movies of all time from IMDB website. Six (6) columns were considered for this dataset, i.e., `Rank`, `Title`, `Release`, `Runtime`, `Rated`, and `Ratings`. Since the columns do not have same number of entries, data were scraped separately (by making 3 separate scrapers) considering the uneven number of column entries.
 * `scraper.py`: `Rank`, `Title`
 * `scraper_2.py`: `Release`, `Runtime`, `Rated`
 * `scraper_3.py`: `Ratings`
