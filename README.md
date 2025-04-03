@@ -15,7 +15,7 @@ Selenium was used to build a web scraper to retrieve data on top 250 movies of a
 * `scraper_2.py`: `Release`, `Runtime`, `Rated`
 * `scraper_3.py`: `Ratings`
 
-## Data Processing, Transformation and Manipulation
+## Data Preprocessing, Transformation and Manipulation
 After generating three (3) `.csv` files from VS Code, column entries were manually adjusted in MS Excel as every column does not have same number of entries. Then, the missing values were handled in Google Colab using Python.
 
 ## [Dashboard Preview](https://public.tableau.com/app/profile/arnab.naha.ushna/viz/Top250IMDBMovies_17382266796240/Top250IMDBMovies)
