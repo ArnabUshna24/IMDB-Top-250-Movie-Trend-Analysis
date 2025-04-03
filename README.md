@@ -19,7 +19,7 @@ Selenium was used to build a web scraper to retrieve data on top 250 movies of a
 After generating three (3) `.csv` files from VS Code, column entries were manually adjusted in MS Excel as every column does not have same number of entries. Then, the missing values were handled in Google Colab using Python.
 
 ## [Dashboard Preview](https://public.tableau.com/app/profile/arnab.naha.ushna/viz/Top250IMDBMovies_17382266796240/Top250IMDBMovies)
-![Tableau Visualization](https://github.com/ArnabUshna24/IMDB-Top-250-Movies-of-All-Time/blob/main/Dashboard.jpg)
+![Tableau Visualization](https://github.com/ArnabUshna24/IMDB-Top-250-Movies-of-All-Time/blob/main/dashboard_screenshot.jpg)
 
 ## Interesting Findings
 * Among the 250 movies, the most number of movies (8) were released in 1995.
