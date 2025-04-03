@@ -37,7 +37,10 @@ After generating three (3) `.csv` files from VS Code, column entries were manual
 3. Activate virtual environment
    ```python
    source ./venv/bin/activate
-4. Run `scraper.py`, `scraper_2.py`, and `scraper_3.py` files to scrape the data and generate the `.csv` files.
+4. Install dependencies
+   ```python
+   pip install -r requirements.txt
+5. Run `scraper.py`, `scraper_2.py`, and `scraper_3.py` files to scrape the data and generate the `.csv` files.
 
 
 For any queries, contact me: arnabnushna24@gmail.com
