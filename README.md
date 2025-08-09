@@ -27,7 +27,7 @@ After generating three (3) `.csv` files from VS Code, column entries were manual
 ## Build from Source
 1. Clone repository
    ```python
-   git clone https://github.com/ArnabUshna24/IMDB-Top-250-Movies-of-All-Time.git
+   git clone https://github.com/ArnabUshna24/IMDB-Top-250-Movie-Trend-Analysis.git
 2. Initialize virtual environment
    ```python
    virtualenv venv
